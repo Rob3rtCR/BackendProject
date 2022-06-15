@@ -21,7 +21,7 @@ app.listen(puerto, () => {
 });
 
 app.get("/", async (req, res) => {
-  res.send("Hola Soy Sebastian");
+  res.send("Hola Soy Beto");
 });
 
 app.get("/productos", async (req, res) => {
