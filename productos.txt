@@ -1,4 +1,4 @@
-[{"nombre":"producto1","precio":"400","id":1},{"nombre":"producto2","precio":"500","id":2},{"nombre":"producto3","precio":"600","id":3},{"nombre":"producto4","precio":"560","id":4},{"nombre":"producto5","precio":"310","id":5},{"nombre":"producto6","precio":"75","id":6}]
+[{"title":"producto1","price":"400","id":1},{"title":"producto2","price":"500","id":2},{"ntitle":"producto3","price":"600","id":3},{"title":"producto4","price":"560","id":4},{"title":"producto5","price":"310","id":5},{"title":"producto6","price":"75","id":6}]
 
     © 2022 GitHub, Inc.
 
